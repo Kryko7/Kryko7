@@ -1,4 +1,4 @@
-# Welcome to [Your Name]'s GitHub Profile 👋
+# Hi, I'm Minindu 👋
 
 ![Profile Banner](link_to_your_banner_image.png)
 
