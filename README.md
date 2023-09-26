@@ -25,9 +25,6 @@ Hello! I'm [Your Name], a passionate [your profession or field] based in [your l
 - [Portfolio Website](https://www.yourwebsite.com)
 - [Blog](https://yourblog.com)
 
-## GitHub Stats
-
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide=contribs&include_all_commits=true&count_private=true)
 
 <!-- Feel free to add more sections as per your preferences and interests! -->
 
